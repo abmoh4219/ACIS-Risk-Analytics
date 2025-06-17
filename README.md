@@ -8,7 +8,8 @@ This repository contains code and analysis for AlphaCare Insurance Solutions' ri
 
 - **src/**: Source code for analysis and modeling
 - **tests/**: Test files
-- **notebooks/**: Jupyter notebooks for EDA and visualization
+- **models/**: Directory containing saved machine learning models (e.g., `linear_regression_model.pkl`, `random_forest_model.pkl`, `xgboost_model.pkl`).
+- **notebooks/**: Jupyter notebook with exploratory data analysis (EDA), hypothesis testing, and predictive modeling.
 - **data/**: Datasets (managed with DVC, not pushed to GitHub)
 - **.github/workflows/**: CI/CD workflows
 - **.gitignore**: Specifies files/folders to ignore (e.g., `data/`, `venv/`)
@@ -20,7 +21,8 @@ This repository contains code and analysis for AlphaCare Insurance Solutions' ri
 
 1. **Initial Setup**: Git versioning and exploratory data analysis (EDA)
 2. **Data Version Control (DVC)**: Setup and configuration
-
+3. **A/B Hypothesis Testing**: 
+4. **Stastical Modeling**:
 ---
 
 ## Setup Instructions
