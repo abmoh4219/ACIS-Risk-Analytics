@@ -76,6 +76,7 @@ isoduration==20.11.0
 iterative-telemetry==0.0.10
 jedi==0.19.2
 Jinja2==3.1.6
+joblib==1.5.1
 json5==0.12.0
 jsonpointer==3.0.0
 jsonschema==4.24.0
@@ -147,6 +148,7 @@ rich==14.0.0
 rpds-py==0.25.1
 ruamel.yaml==0.18.14
 ruamel.yaml.clib==0.2.12
+scikit-learn==1.7.0
 scipy==1.15.3
 scmrepo==3.3.11
 seaborn==0.13.2
@@ -164,6 +166,7 @@ sqltrie==0.11.2
 stack-data==0.6.3
 tabulate==0.9.0
 terminado==0.18.1
+threadpoolctl==3.6.0
 tinycss2==1.4.0
 tomlkit==0.13.3
 tornado==6.5.1
@@ -183,5 +186,6 @@ webcolors==24.11.1
 webencodings==0.5.1
 websocket-client==1.8.0
 widgetsnbextension==4.0.14
+xgboost==3.0.2
 yarl==1.20.1
 zc.lockfile==3.0.post1
